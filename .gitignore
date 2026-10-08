@@ -1,0 +1,7 @@
+Videos/
+.vscode/
+Explanations of Project/
+Camera_Calibration/Calibration_Vid.mp4
+Processes/fast_algorithm
+Processes/slow_algorithm
+Processes/video_player
